@@ -74,8 +74,12 @@
 .buttons_content {
     display: flex;
     width: auto;
-    height: 5em;
+    height: 5rem;
     gap: 2em;
+}
+
+.buttons_content img {
+    height: 90px;
 }
 
 .logo {
