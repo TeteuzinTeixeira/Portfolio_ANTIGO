@@ -1,0 +1,67 @@
+@media screen and (max-width:1440px){
+    .conteudo {
+        margin: 10.2%;        
+    }
+}
+
+@media screen and (max-width:1366px){
+    .conteudo {
+        margin: 6%;        
+    }
+}
+
+@media screen and (max-width:1280px){
+    .conteudo {
+        margin: 6.3%;        
+    }
+}
+
+@media screen and (max-width:1024px){
+    .conteudo {
+        margin: 7.7%;        
+    }
+}
+
+@media screen and (max-width:414px){
+    .header {
+        margin: 3%;
+        justify-content: center;
+    }
+
+    .foto_perfil {
+        width: 367px;
+        height: 367px;
+    }
+
+    .container{
+        width: 100%;
+    }
+
+    .titulo {
+        font-size: 80px;
+    }
+
+    .subtitulo {
+        font-size: 18px;
+    }
+
+    .paragrafo {
+        font-size: 13px;
+    }
+    
+    .buttons_content img{
+        height: 4rem;
+    }
+
+    .titulo_footer {
+        font-size: medium;
+    }
+
+    .texto_footer {
+        font-size: small;
+    }
+
+    .icon_footer {
+        height: 30px;
+    }
+}
